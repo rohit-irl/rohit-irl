@@ -47,8 +47,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohit_irl)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vtu25781@veltech.edu.in) 
 
 
-## Github Trophies:
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-irl&layout=compact&theme=tokyonight)
 
 
