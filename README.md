@@ -69,6 +69,8 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohit-irl&theme=github&count_private=true)
 
+![GitHub Snake Animation](https://raw.githubusercontent.com/rohit-irl/rohit-irl/output/github-contribution-grid-snake-dark.svg)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF00FF&height=90&section=footer&animation=twinkling"/>
 </p>
