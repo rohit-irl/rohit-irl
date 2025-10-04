@@ -1,14 +1,11 @@
-<h2 align="left">Hi 👋! I'm Rohit Raj, a passionate Software Engineer from India 🇮🇳</h2>
-
+<h2 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&width=435&lines=Hi+👋!+I'm+Rohit+Raj;A+passionate+Software+Engineer;From+India" alt="Typing SVG" />
+</h2>
 <h3>📊 GitHub Stats: </h3>
 
 <div align="center"> 
 
 ![](https://nirzak-streak-stats.vercel.app/?user=rohit-irl&theme=dark&hide_border=true&count_private=true)<br/>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohit-irl&show_icons=true&theme=tokyonight&count_private=true)
-
----
 
 [![](https://visitcount.itsvg.in/api?id=rohit-irl&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -51,6 +48,7 @@
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohit_irl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohitirl)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vtu25781@veltech.edu.in)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-irl&layout=compact&theme=tokyonight&count_private=true)
@@ -70,3 +68,7 @@
 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) | ![SASS](https://img.shields.io/badge/sass-%23CC6699.svg?style=plastic&logo=sass&logoColor=white) | ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=plastic&logo=flask&logoColor=white) | ![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=plastic&logo=oracle&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) | ![Seaborn](https://img.shields.io/badge/seaborn-%23A9CCE3.svg?style=plastic&logo=python&logoColor=white) | ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white) |
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohit-irl&theme=github&count_private=true)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF00FF&height=90&section=footer&animation=twinkling"/>
+</p>
