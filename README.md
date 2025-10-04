@@ -1,18 +1,10 @@
 <h2 align="left">Hi 👋! I'm Rohit Raj, a passionate Software Engineer from India 🇮🇳</h2>
 
----
+<h3>📊 GitHub Stats: </h3>
 
-### 📊 GitHub Stats:
 <div align="center"> 
 
-<!-- Streak Stats -->
-![](https://nirzak-streak-stats.vercel.app/?user=rohit-irl&theme=tokyonight&hide_border=true&count_private=true)
-
-<!-- Main Stats -->
-![](https://github-readme-stats.vercel.app/api?username=rohit-irl&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
-
-<!-- Top Languages -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-irl&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=rohit-irl&theme=dark&hide_border=true)<br/>
 
 ---
 
@@ -20,47 +12,50 @@
 
 </div>
 
----
-
-### 💻 Tech Stack
+###
 
 <div align="left">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" />
 
-  <!-- Frontend -->
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
-  <img width="15" />
-  <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-light.svg" height="35" alt="TailwindCSS"
-       style="background-color: white; padding: 4px; border-radius: 6px;" />
+<!-- Languages -->
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" />
 
-  <!-- Backend -->
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js" />
-  <img width="15" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="35" alt="Express.js"
-       style="background-color: white; padding: 4px; border-radius: 6px;" />
+<!-- Frontend -->
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
+<img width="15" />
+<img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-light.svg" height="35" alt="TailwindCSS"
+     style="background-color: white; padding: 4px; border-radius: 6px;" />
 
-  <!-- Database -->
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL" />
+<!-- Backend -->
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js" />
+<img width="15" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="35" alt="Express.js"
+     style="background-color: white; padding: 4px; border-radius: 6px;" />
+
+<!-- Database -->
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL" />
+
 </div>
 
 <br/>
 
----
+###
 
-### 🌐 Socials:
+## 🌐 Socials:
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohit_irl)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vtu25781@veltech.edu.in)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-irl&layout=compact&theme=tokyonight)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=rohit-irl&label=Profile%20Views&color=blue&style=flat)
 
----
-
-### ⚙️ Full Tech Stack Table
+<h3> 💻 Tech Stack </h3> 
 
 | **Programming Languages** | **Frontend** | **Backend & Realtime** | **Database** | **Cloud / DevOps** | **ML / Data Science** | **Tools & Others** |
 |---------------------------|--------------|-------------------------|--------------|--------------------|------------------------|---------------------|
@@ -72,11 +67,4 @@
 | ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) | ![FastAPI](https://img.shields.io/badge/fastapi-%2300C7B7.svg?style=plastic&logo=fastapi&logoColor=white) | ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=plastic&logo=redis&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%230077B5.svg?style=plastic&logo=matplotlib&logoColor=white) | ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) |
 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) | ![SASS](https://img.shields.io/badge/sass-%23CC6699.svg?style=plastic&logo=sass&logoColor=white) | ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=plastic&logo=flask&logoColor=white) | ![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=plastic&logo=oracle&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) | ![Seaborn](https://img.shields.io/badge/seaborn-%23A9CCE3.svg?style=plastic&logo=python&logoColor=white) | ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white) |
 
----
-
-### 📈 GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohit-irl&theme=tokyonight)
-
----
-
-⭐ **“Code. Create. Contribute. Repeat.”**  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohit-irl&theme=github)
