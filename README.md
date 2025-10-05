@@ -15,27 +15,23 @@
 
 <div align="left">
 
-<!-- Languages -->
 <img width="15" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
 <img width="15" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" />
 
-<!-- Frontend -->
 <img width="15" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
 <img width="15" />
 <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-light.svg" height="35" alt="TailwindCSS"
      style="background-color: white; padding: 4px; border-radius: 6px;" />
 
-<!-- Backend -->
 <img width="15" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js" />
 <img width="15" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="35" alt="Express.js"
      style="background-color: white; padding: 4px; border-radius: 6px;" />
 
-<!-- Database -->
 <img width="15" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL" />
 
@@ -68,8 +64,6 @@
 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) | ![SASS](https://img.shields.io/badge/sass-%23CC6699.svg?style=plastic&logo=sass&logoColor=white) | ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=plastic&logo=flask&logoColor=white) | ![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=plastic&logo=oracle&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) | ![Seaborn](https://img.shields.io/badge/seaborn-%23A9CCE3.svg?style=plastic&logo=python&logoColor=white) | ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white) |
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohit-irl&theme=github&count_private=true)
-
-![GitHub Snake Animation](https://raw.githubusercontent.com/rohit-irl/rohit-irl/output/github-contribution-grid-snake-dark.svg)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF00FF&height=90&section=footer&animation=twinkling"/>
