@@ -47,7 +47,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohitirl)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vtu25781@veltech.edu.in)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-irl&layout=compact&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-irl&layout=compact&theme=tokyonight)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rohit-irl&label=Profile%20Views&color=blue&style=flat)
 
