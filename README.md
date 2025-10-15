@@ -12,7 +12,6 @@
 
 ###
 <div align="left">
-
 <img width="15" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
 <img width="15" />
