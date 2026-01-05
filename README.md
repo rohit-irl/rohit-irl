@@ -10,16 +10,6 @@
 [![](https://visitcount.itsvg.in/api?id=rohit-irl&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/rohit-irl/rohit-irl/output/github-snake-dark.svg">
-  <img
-    src="https://raw.githubusercontent.com/rohit-irl/rohit-irl/output/github-snake.svg"
-    alt="GitHub Contribution Snake">
-</picture>
-
 ###
 <div align="left">
 <img width="15" />
@@ -52,6 +42,14 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohit_irl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohitirl)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vtu25781@veltech.edu.in)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/rohit-irl/rohit-irl/output/github-snake-dark.svg">
+  <img
+    src="https://raw.githubusercontent.com/rohit-irl/rohit-irl/output/github-snake.svg"
+    alt="GitHub Contribution Snake">
+</picture>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-irl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
